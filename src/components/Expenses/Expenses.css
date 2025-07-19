@@ -1,0 +1,9 @@
+.expenses {
+  background-color: #323232;
+  border-radius: 20px;
+  margin: 40px auto 40px;
+  color: white;
+  width: 80vw;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
